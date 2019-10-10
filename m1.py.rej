@@ -1,0 +1,9 @@
+diff a/m1.py b/m1.py	(rejected hunks)
+@@ -5,4 +5,6 @@
+ print('经理第三次')
+ print('经理第三次')
+ print('qqqqq')
++print('qqqqq')
++print('qqqqq')
+ print('qqqqq')
+\ No newline at end of file
